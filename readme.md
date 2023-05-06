@@ -9,7 +9,7 @@
 1. Clone the repository
 
 ```bash
-https://github.com/SabbirHosen/Web-quiz.git
+https://github.com/Samiha07/online-quiz-maker
 ```
 
 2. Change the working directory
