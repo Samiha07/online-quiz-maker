@@ -15,7 +15,7 @@ https://github.com/Samiha07/online-quiz-maker
 2. Change the working directory
 
 ```bash
-cd Web-quiz
+cd online-quiz-maker
 ```
 
 3. Install virtual environment (command prompt)
